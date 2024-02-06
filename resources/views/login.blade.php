@@ -22,8 +22,7 @@
             border-color: white;
             font-size: 18px;
             padding: 12px 20px;
-            color: black;
-        }
+            color: black}
 
         .btn-primary:hover {
             background-color: #4b0082; /* Warna latar belakang tombol ungu saat dihover */
